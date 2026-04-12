@@ -1,0 +1,22 @@
+{
+  "base_price": 1295,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "acquisition",
+  "config_description": "--Defensible Leaders-- \nTop 50 ranked high-volume restaurants. \n\nEach venue with massive review volume. The safest bets. \n\nUses State Rank to find the absolute biggest players.",
+  "config_name": "Top 50 Restaurant Category Dominators in West Virginia, US",
+  "export_job_id": "b4d7e7e3-133f-4fb2-9321-3811e387b2e3",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 405277,
+  "location_name": "West Virginia",
+  "location_type": "state",
+  "repo_name": "top-50-restaurant-category-dominators-in-west-virginia-us-sample-405277",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/405277/beamstation_405277_restaurants-us-wv_SAMPLE_DIST.csv",
+  "sample_pct": 10.0,
+  "sample_records": 5,
+  "sample_sha256": "2c45e4cebdb4a384e4fc30944615a06bd31ac55bbef0a4e2c84e769c7b9a1345",
+  "sample_size_bytes": 39249,
+  "total_records": 50,
+  "updated_at": "2026-04-08T01:41:08.628804+00:00"
+}
