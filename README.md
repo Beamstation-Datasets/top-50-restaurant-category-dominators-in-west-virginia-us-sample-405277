@@ -1,6 +1,6 @@
 # Top 50 Restaurant Category Dominators in West Virginia, US
 
-> Free BeamStation sample export with 4 rows and masked direct-contact fields.
+> Free BeamStation sample export with 7 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `405277` |
 | Location | West Virginia |
 | Category | Restaurants |
-| Full dataset size | 48 records |
-| Free sample size | 4 records (8.33%) |
-| Last export | 2026-04-15T07:14:08.277578+00:00 |
+| Full dataset size | 79 records |
+| Free sample size | 7 records (8.86%) |
+| Last export | 2026-04-22T13:27:09.335287+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-50-restaurant-category-dominators-in-west-virginia-us-sample-405277/releases/download/sample-latest/beamstation_405277_restaurants-us-wv_SAMPLE_DIST.csv) |
 
 ## What is in this sample
