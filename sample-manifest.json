@@ -1,12 +1,12 @@
 {
-  "export_job_id": "305f4578-28d4-4cc7-805b-21ae744b78b9",
+  "export_job_id": "f628131c-c7f5-4251-8841-042db718a315",
   "id_short": 405277,
-  "published_at": "2026-04-22T19:41:29Z",
+  "published_at": "2026-04-30T07:24:10Z",
   "repo_name": "top-50-restaurant-category-dominators-in-west-virginia-us-sample-405277",
   "sample_asset_name": "beamstation_405277_restaurants-us-wv_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/405277/beamstation_405277_restaurants-us-wv_SAMPLE_DIST.csv",
-  "sample_records": 7,
-  "sample_sha256": "1857706aa50a4e2a8aad42b23d2df39659e5a023ff7fb7d2e86ad079a0bbf31a",
-  "sample_size_bytes": 35929,
-  "total_records": 79
+  "sample_records": 5,
+  "sample_sha256": "58a42cedff76aba347ef18e9f0a41a6f9dc6f0f82b37000eb573f55a62ebf8d7",
+  "sample_size_bytes": 35031,
+  "total_records": 54
 }
